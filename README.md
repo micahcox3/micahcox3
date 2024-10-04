@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @micahcox3
+- 🌱 I’m currently learning ...  Pyhton 
+- ⚡ Fun fact: ...
